@@ -1,0 +1,10 @@
+.right-menu__link {
+    color: #595E65;
+    text-decoration: none;
+    display: flex;
+    align-items: center;
+}
+
+.right-menu__link:last-child {
+    margin-left: 42px;
+}

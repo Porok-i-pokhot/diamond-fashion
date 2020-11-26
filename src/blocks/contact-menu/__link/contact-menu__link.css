@@ -1,0 +1,11 @@
+.contact-menu__link {
+    margin-right: 20px;
+    font-size: 18px;
+    line-height: 21px;
+    color: #595E65;
+    text-decoration: none;
+}
+
+.contact-menu__link:last-child {
+    margin-right: 0px;
+}

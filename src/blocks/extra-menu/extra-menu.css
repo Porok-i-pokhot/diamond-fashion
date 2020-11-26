@@ -1,0 +1,8 @@
+@import url(./__title/extra-menu__title.css);
+@import url(./__logo/extra-menu__logo.css);
+@import url(./__input/extra-menu__input.css);
+@import url(./__main-part/extra-menu__main-part.css);
+
+.extra-menu {
+    display: flex;
+}

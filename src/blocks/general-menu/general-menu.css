@@ -1,0 +1,7 @@
+@import url(./__logo/general-menu__logo.css);
+
+.general-menu {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 26px;
+}

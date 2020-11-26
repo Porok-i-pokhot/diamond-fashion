@@ -1,0 +1,8 @@
+@import url(./__link/right-menu__link.css);
+@import url(./__title/right-menu__title.css);
+@import url(./__cart/right-menu__cart.css);
+@import url(./__human/right-menu__human.css);
+
+.right-menu {
+    display: flex;
+}

@@ -1,0 +1,6 @@
+.header {
+    padding: 36px 105px 68px;
+    display: flex;
+    flex-direction: column;
+    color: #595E65;
+}
