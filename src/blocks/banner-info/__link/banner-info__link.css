@@ -1,0 +1,11 @@
+.banner-info__link {
+    color: black;
+    margin-top: 32px;
+    font-size: 24px;
+    font-weight: 300;
+    line-height: 28px;
+    text-decoration: none;
+    border-bottom: 1px solid;
+    border-bottom-color: black;
+    /*z-index: 1;*/
+}

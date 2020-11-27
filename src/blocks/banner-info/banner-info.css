@@ -1,0 +1,17 @@
+@import url(./__title/banner-info__title.css);
+@import url(./__link/banner-info__link.css);
+@import url(./__subtitle/banner-info__subtitle.css);
+@import url(./__overlay/banner-info__overlay.css);
+@import url(./__text/banner-info__text.css);
+
+.banner-info {
+    background-image: url(../../images/banner-foto.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-height: 657px;
+    /*display: flex;*/
+    /*justify-content: center;*/
+    /*flex-direction: column;*/
+    /*align-items: center;*/
+    position: relative;
+}
