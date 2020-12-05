@@ -1,0 +1,10 @@
+.gallery__title {
+    margin: 0;
+    font-size: 56px;
+    font-weight: 400;
+    text-align: center;
+}
+
+/*.gallery__title:first-child {*/
+/*    margin-top: 110px;*/
+/*}*/

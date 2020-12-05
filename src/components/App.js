@@ -1,12 +1,17 @@
 import React from 'react';
 import Header from "./Header";
-import AdditionalInformation from "./AdditionalInformation";
+import Main from "./Main";
+import accessoriseImages from "../utils/accessoriseImages";
+import plantsImages from "../utils/plantsImages";
 
 function App() {
+
+  // const[accessoriseImages, setCards] = React.useState([]);
+
   return (
     <>
     <Header />
-    <AdditionalInformation />
+    <Main cards8={accessoriseImages} cardsPlants={plantsImages}/>
     </>
   );
 }

@@ -1,0 +1,9 @@
+@import url(./__link/gallery__link.css);
+@import url(./__title/gallery__title.css);
+@import url(./__info/gallery__info.css);
+@import url(./__header/gallery__header.css);
+
+.gallery {
+    margin: 0 auto;
+    max-width: 1140px;
+}

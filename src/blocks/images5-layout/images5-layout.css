@@ -1,0 +1,13 @@
+.images5-layout {
+    display: grid;
+    max-width: 1139px;
+    grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+    grid-template-rows: repeat(2, 358px);
+    grid-gap: 46px 31px;
+    margin: 0 auto;
+}
+
+.images5-layout:first-child {
+    grid-row-start: 1;
+    grid-row-end: 4;
+}
