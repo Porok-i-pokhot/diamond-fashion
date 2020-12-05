@@ -3,6 +3,7 @@ import Header from "./Header";
 import Main from "./Main";
 import accessoriseImages from "../utils/accessoriseImages";
 import plantsImages from "../utils/plantsImages";
+import shoesImages from "../utils/shoesImages";
 
 function App() {
 
@@ -11,7 +12,7 @@ function App() {
   return (
     <>
     <Header />
-    <Main cards8={accessoriseImages} cardsPlants={plantsImages}/>
+    <Main cards8={accessoriseImages} cardsPlants={plantsImages} cardsShoes={shoesImages}/>
     </>
   );
 }
