@@ -10,6 +10,7 @@
 @import url(./blocks/card-5-layout/card-5-layout.css);
 @import url(./blocks/images5-layout/images5-layout.css);
 @import url(./blocks/card-1-layout/card-1-layout.css);
+@import url(./blocks/pre-footer/pre-footer.css);
 
 body {
   margin: 0;

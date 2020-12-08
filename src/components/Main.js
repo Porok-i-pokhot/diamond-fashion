@@ -4,6 +4,7 @@ import Gallery from "./Gallery";
 import {Cards8} from "./Cards8";
 import {Cards5} from "./Cards5";
 import Card1Layout from "./Card1Layout";
+import PreFooter from "./PreFooter";
 
 function Main({cards8, cardsPlants, cardsShoes}) {
 
@@ -47,6 +48,7 @@ function Main({cards8, cardsPlants, cardsShoes}) {
                       They are awesome"
                 link="Tear and create"/>
             <Card1Layout link={'https://en.freejpg.com.ar/asset/900/bd/bd76/F100011451.jpg'} />
+            <PreFooter/>
         </>
     )
 }

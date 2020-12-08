@@ -1,0 +1,11 @@
+.pre-footer__block {
+    width: 554px;
+    font-size: 15px;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+.pre-footer__block:first-child {
+    margin-right: 26px;
+}
