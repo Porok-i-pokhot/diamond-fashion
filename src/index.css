@@ -11,6 +11,7 @@
 @import url(./blocks/images5-layout/images5-layout.css);
 @import url(./blocks/card-1-layout/card-1-layout.css);
 @import url(./blocks/pre-footer/pre-footer.css);
+@import url(./blocks/email/email.css);
 
 body {
   margin: 0;

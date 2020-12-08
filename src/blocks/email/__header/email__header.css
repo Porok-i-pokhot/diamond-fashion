@@ -1,0 +1,7 @@
+.email__header {
+    display: flex;
+    margin: 0 auto 40px;
+    padding-top: 92px;
+    justify-content: center;
+    background-color: #f9f8f5;
+}
