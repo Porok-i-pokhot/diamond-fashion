@@ -1,0 +1,7 @@
+@import url(./__column/site-map__column.css);
+
+.site-map {
+    display: flex;
+    background-color: #f9f8f5;
+    justify-content: center;
+}

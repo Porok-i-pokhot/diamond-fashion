@@ -1,0 +1,14 @@
+@import url(./_section/site-map__column_section.css);
+@import url(./_title/site-map__column_title.css);
+@import url(./_list/site-map__column_list.css);
+
+.site-map__column {
+    padding-right: 56px;
+    border-bottom: 1px solid #595E65;
+    padding-bottom: 161px;
+
+}
+
+.site-map__column:last-child {
+    padding-right: 0;
+}

@@ -1,3 +1,5 @@
 .email__link {
-
+    text-decoration: none;
+    color: #595E65;
+    border-bottom: 1px solid #595E65;
 }
