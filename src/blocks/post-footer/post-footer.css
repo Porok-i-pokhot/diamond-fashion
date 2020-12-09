@@ -1,0 +1,12 @@
+@import url(./__header/post-footer__header.css);
+@import url(./__logo/post-footer__logo.css);
+@import url(./__author/post-footer__author.css);
+@import url(./__icon/post-footer__icon.css);
+
+.post-footer {
+    background-color: #f9f8f5;
+    padding: 50px 154px 185px;
+    display: flex;
+    flex-direction: column;
+
+}

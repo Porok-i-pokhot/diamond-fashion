@@ -1,0 +1,7 @@
+.post-footer__icon {
+    margin-right: 46px;
+}
+
+.post-footer__icon:last-child {
+    margin-right: 0;
+}

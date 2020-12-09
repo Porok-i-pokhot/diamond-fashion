@@ -13,6 +13,7 @@
 @import url(./blocks/pre-footer/pre-footer.css);
 @import url(./blocks/email/email.css);
 @import url(./blocks/site-map/site-map.css);
+@import url(./blocks/post-footer/post-footer.css);
 
 body {
   margin: 0;
