@@ -1,9 +1,9 @@
 .images5-layout {
     display: grid;
     max-width: 1139px;
-    grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
-    grid-template-rows: repeat(2, 358px);
-    grid-gap: 46px 31px;
+    grid-template-columns: repeat(4, 1fr);
+    grid-template-rows: repeat(6, 119px);
+    grid-gap: 15px 31px;
     margin: 0 auto;
 }
 
